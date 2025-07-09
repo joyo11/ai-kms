@@ -20,143 +20,57 @@ interface Message {
 
 // Knowledge base from the 4 internal documents
 const knowledgeBase = {
-  "training": {
-    title: "Training Materials & Process",
-    content: `Our training process follows a comprehensive approach designed to maximize learning outcomes. We utilize the ADDIE methodology (Analysis, Design, Development, Implementation, Evaluation) to ensure systematic and effective training delivery.
-
-Our training services include:
-• Custom LMS development and implementation
-• E-learning course creation and deployment
-• Onboarding program design
-• Technical and vocational training
-• Capacity building workshops
-• Digital skills development
-
-Each training program is tailored to meet specific organizational needs and includes pre-assessment, interactive learning modules, practical exercises, and post-training evaluation.`,
-    source: "Sara Learning Training Materials & Process Documentation"
+  "userGuides": {
+    title: "User Guides",
+    content: `Step-by-step instructions for using our platform. Includes account setup, navigation, and troubleshooting basics.`,
+    source: "Sara Learning User Guides"
   },
-  "proposals": {
-    title: "Proposal Development Process",
-    content: `Our proposal development follows a systematic 12-stage process:
-
-1. Tender Identification - Daily monitoring of donor portals
-2. Relevance Review - Strategic assessment of opportunities
-3. ToRs Review - Scope definition and resource planning
-4. Proposal Drafting - Technical content development
-5. Internal Review - Quality assurance and feedback
-6. Proposal Revision - Incorporation of feedback
-7. Budget Development - Cost estimation and alignment
-8. Team Formation - Expert selection and confirmation
-9. Final Review - Complete package verification
-10. Submission - Portal upload and documentation
-11. Tender Steering - Process monitoring and guidance
-12. Monitoring & Evaluation - Results tracking and assessment
-
-Each stage has clear ownership and deliverables to ensure successful outcomes.`,
-    source: "Sara Learning Proposal Development Documentation"
+  "referenceGuides": {
+    title: "Reference Guides",
+    content: `Quick access to key features, terminology, and FAQs for our system.`,
+    source: "Sara Learning Reference Guides"
   },
-  "templates": {
-    title: "Templates & Resources",
-    content: `We maintain standardized templates for various proposal types:
-
-• Technical proposal templates
-• Financial proposal formats
-• Team composition templates
-• Work plan and timeline templates
-• Risk matrix templates
-• Monitoring and evaluation frameworks
-• Annex and supporting document templates
-
-Our training templates include:
-• Course outline templates
-• Learning objective frameworks
-• Assessment and evaluation templates
-• Participant feedback forms
-• Training schedule templates
-• Resource requirement checklists
-• Post-training evaluation frameworks
-
-These templates ensure consistency and quality across all programs.`,
-    source: "Sara Learning Templates & Resources"
-  },
-  "company": {
-    title: "Company Information",
-    content: `SARA LEARNING GLOBAL is a US-based social enterprise with global operations across 7 divisions. Our mission is to transform the way we learn through innovative, technology-driven educational solutions.
-
-We specialize in:
-• End-to-end training solutions
-• SCORM-compliant e-learning development
-• Multi-language content creation
-• Custom LMS implementation
-• Capacity building and skills development
-• Digital transformation consulting
-
-Key past projects and achievements:
-• UNEP Partnership (2021-present): Serving 40,000+ users, upgraded 38 courses to interactive format
-• Pakistan BNIP Project (2023): Trained 600+ youth in digital skills, developed 4 comprehensive courses
-• Skilling Symposiums: Hosted Pakistan and Nepal events reaching 1,500+ participants with international experts
-
-Our approach combines cutting-edge technology with proven pedagogical methodologies to deliver impactful learning experiences.`,
-    source: "Sara Learning Company Profile"
+  "resources": {
+    title: "Resources",
+    content: `Downloadable templates, video tutorials, and help articles to support your learning.`,
+    source: "Sara Learning Resources"
   }
 }
 
 // Quick response patterns for common queries
 const quickResponses = {
-  "training": knowledgeBase.training,
-  "proposal": knowledgeBase.proposals,
-  "template": knowledgeBase.templates,
-  "company": knowledgeBase.company,
-  "sara": knowledgeBase.company,
-  "lms": {
-    title: "LMS & E-Learning Services",
-    content: `We provide comprehensive Learning Management System (LMS) services including:
-
-• Custom LMS platform development
-• SCORM-compliant course creation
-• Multi-language content support
-• Interactive learning modules
-• Progress tracking and analytics
-• Mobile-responsive design
-• Integration with existing systems
-
-Our LMS solutions are designed to be scalable, user-friendly, and accessible across all devices. We support various content formats including videos, interactive simulations, assessments, and collaborative learning tools.`,
-    source: "Sara Learning Training Materials & Process Documentation"
-  },
-  "addie": {
-    title: "ADDIE Methodology",
-    content: `We use the ADDIE methodology (Analysis, Design, Development, Implementation, Evaluation) for systematic training development:
-
-• Analysis: Identify learning needs, target audience, and objectives
-• Design: Create learning objectives, content structure, and assessment strategies
-• Development: Build learning materials, activities, and assessments
-• Implementation: Deliver training through appropriate channels
-• Evaluation: Assess effectiveness and gather feedback for improvement
-
-This systematic approach ensures our training programs are effective, engaging, and aligned with organizational goals.`,
-    source: "Sara Learning Training Materials & Process Documentation"
-  }
+  "user guide": knowledgeBase.userGuides,
+  "user guides": knowledgeBase.userGuides,
+  "reference guide": knowledgeBase.referenceGuides,
+  "reference guides": knowledgeBase.referenceGuides,
+  "resources": knowledgeBase.resources
 }
 
 export default function SARAAIKMS() {
   const getTimeString = (date: Date) =>
     date.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', second: '2-digit' })
 
-  const [messages, setMessages] = useState<Message[]>([
-    {
+  const [messages, setMessages] = useState<Message[]>([]);
+  useEffect(() => {
+    setMessages([{
       id: "1",
-      content: "Hi, I'm SARA AI-KMS. I am your intelligent knowledge assistant. All information I provide is sourced directly from our official internal documentation. How can I help you today?",
+      content: "Hi, I'm APS AI-POWERED CONTENT ACCESS SYSTEM. I am your intelligent knowledge assistant. All information I provide is sourced directly from our official internal documentation. How can I help you today?",
       sender: "ai",
       timestamp: new Date(),
       timeString: getTimeString(new Date()),
-    },
-  ])
+    }]);
+  }, []);
   const [input, setInput] = useState("")
   const [isLoading, setIsLoading] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
   const bottomRef = useRef<HTMLDivElement>(null)
   const [feedback, setFeedback] = useState<{ [id: string]: 'up' | 'down' | null }>({})
   const [interactionCount, setInteractionCount] = useState(0)
+  const [hasMounted, setHasMounted] = useState(false);
+
+  useEffect(() => {
+    setHasMounted(true);
+  }, []);
 
   useEffect(() => {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" })
@@ -164,49 +78,26 @@ export default function SARAAIKMS() {
 
   const findRelevantResponse = (userInput: string): { title: string; content: string; source: string } => {
     const input = userInput.toLowerCase()
-    
     // Check for exact matches first
     for (const [key, response] of Object.entries(quickResponses)) {
       if (input.includes(key)) {
         return response
       }
     }
-
     // Check for keyword matches
-    if (input.includes("train") || input.includes("learning") || input.includes("course") || input.includes("education")) {
-      return knowledgeBase.training
+    if (input.includes("user guide")) {
+      return knowledgeBase.userGuides
     }
-    if (input.includes("proposal") || input.includes("tender") || input.includes("bid") || input.includes("submission")) {
-      return knowledgeBase.proposals
+    if (input.includes("reference guide")) {
+      return knowledgeBase.referenceGuides
     }
-    if (input.includes("template") || input.includes("format") || input.includes("resource")) {
-      return knowledgeBase.templates
+    if (input.includes("resource")) {
+      return knowledgeBase.resources
     }
-    if (input.includes("company") || input.includes("about") || input.includes("who") || input.includes("what")) {
-      return knowledgeBase.company
-    }
-    if (input.includes("lms") || input.includes("platform") || input.includes("system")) {
-      return quickResponses.lms
-    }
-    if (input.includes("addie") || input.includes("methodology") || input.includes("process")) {
-      return quickResponses.addie
-    }
-
     // Default response for unclear queries
     return {
       title: "General Information",
-      content: `I understand you're asking about "${userInput}". Let me provide you with an overview of our key services and capabilities based on our internal documentation.
-
-${knowledgeBase.training.content.substring(0, 200)}...
-
-${knowledgeBase.proposals.content.substring(0, 200)}...
-
-For more specific information, please try asking about:
-• Training processes and methodologies
-• Proposal development and tendering
-• Templates and resources
-• Company information and past projects
-• LMS and e-learning services`,
+      content: `Please select one of the available topics: user guides, reference guides, or resources.`,
       source: "Sara Learning Internal Documentation"
     }
   }
@@ -253,13 +144,9 @@ For more specific information, please try asking about:
   }
 
   const suggestedQueries = [
-    { label: "Tell me about our training process", icon: BookOpen },
-    { label: "How do we develop proposals?", icon: FileText },
-    { label: "What templates do we have?", icon: Settings },
-    { label: "Tell me about SARA Learning", icon: Briefcase },
-    { label: "What is the ADDIE methodology?", icon: Sparkles },
-    { label: "How do we handle LMS development?", icon: BookOpen },
-    { label: "Who is in the team, what are their responsibilities, and what is the timeline?", icon: Users },
+    { label: "User Guides", icon: FileText },
+    { label: "Reference Guides", icon: FileText },
+    { label: "Resources", icon: FileText },
   ]
 
   const followUpOptions = [
@@ -307,13 +194,13 @@ For more specific information, please try asking about:
               <Sparkles className="w-6 h-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-white">SARA AI-KMS</h1>
+              <h1 className="text-xl font-bold text-white">APS AI-POWERED CONTENT ACCESS SYSTEM</h1>
               <p className="text-sm text-slate-400">Knowledge Management System</p>
             </div>
           </div>
           <div className="text-right">
-            <p className="text-sm font-medium text-white">SARA Learning</p>
-            <p className="text-xs text-emerald-400">AI-Powered Knowledge Assistant</p>
+            <p className="text-sm font-medium text-white">APS</p>
+            <p className="text-xs text-emerald-400">AI-Powered Content Access Assistant</p>
           </div>
         </div>
       </header>
@@ -373,7 +260,7 @@ For more specific information, please try asking about:
               <div className="space-y-4 pt-4 px-4">
                 {/* Personalized greeting after 3+ interactions */}
                 {interactionCount >= 3 && (
-                  <div className="text-center text-emerald-300 text-sm mb-2">Thank you for exploring SARA AI-KMS! If you need more details, just pick a topic or ask for help.</div>
+                  <div className="text-center text-emerald-300 text-sm mb-2">Thank you for exploring APS AI-POWERED CONTENT ACCESS SYSTEM! If you need more details, just pick a topic or ask for help.</div>
                 )}
                 {messages.map((message, idx) => (
                   <div
@@ -455,9 +342,11 @@ For more specific information, please try asking about:
                           </div>
                         )}
                       </div>
-                      <p className="text-xs text-slate-500 mt-1">
-                        {message.timeString}
-                      </p>
+                      {hasMounted && (
+                        <p className="text-xs text-slate-500 mt-1">
+                          {message.timeString}
+                        </p>
+                      )}
                     </div>
                   </div>
                 ))}
@@ -490,7 +379,7 @@ For more specific information, please try asking about:
                   value={input}
                   onChange={(e) => setInput(e.target.value)}
                   onKeyPress={handleKeyPress}
-                  placeholder="Ask SARA AI about training, proposals, templates, company info..."
+                  placeholder="Ask APS AI-POWERED CONTENT ACCESS SYSTEM about User Guides, Reference Guides, or Resources..."
                   className="flex-1 bg-slate-700/50 border-slate-600 text-white placeholder:text-slate-400 focus:border-emerald-400"
                   disabled={isLoading}
                 />
@@ -502,7 +391,7 @@ For more specific information, please try asking about:
                   <Send className="w-4 h-4" />
                 </Button>
               </div>
-              <p className="text-xs text-slate-500 mt-2">Press Enter to send • Powered by SARA Learning AI-KMS</p>
+              <p className="text-xs text-slate-500 mt-2">Press Enter to send • Powered by APS AI-POWERED CONTENT ACCESS SYSTEM</p>
             </div>
           </div>
         </div>

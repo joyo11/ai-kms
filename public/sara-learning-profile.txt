@@ -1,0 +1,1890 @@
+INTERNATIONAL TRADE CENTRE
+DIGITAL
+
+TRANSFORMATION
+
+COACHING - NIGERIA
+
+SHETRADES AND UPS PROJECT
+
+Submitted By:
+
+Sara Learning Global
+USA
+
+TRAINING
+
+AND
+
+CONTENTS
+SECTION I. WHO WE ARE .................................................................................................. 3
+SECTION II. WHAT WE DO ................................................................................................ 3
+SECTION III. PAST PERFORMANCE ................................................................................ 4
+SECTION IV. DESCRIPTION OF PROCESS FLOW AND PROJECT SCHEDULE......... 8
+SECTION V. REFERENCES................................................................................................ 12
+SECTION VI. EXPERTS CV................................................................................................ 13
+SECTION VI. LEGAL FORM AND INCORPORATION .................................................... 26
+
+2
+
+PROJECT PROPOSAL
+
+SECTION I. WHO WE ARE
+SARA LEARNING GLOBAL is a social enterprise that aims to improve the quality of life of youth
+in US through collaborative efforts in education, technology, and other critical services that
+empower the United States economy to grow and develop. Education is the driving force
+behind all our efforts as it provides the most comprehensive and impactful channel into the
+lives of youth. Our programs enable both public and private sectors with financing,
+technology, and operational guidance to prepare communities for digital solutions and smart
+tools, foster smart government services, enhance businesses, and improve the quality of life
+of youth.
+Sara Learning Global, LLC is headquartered in Albany City, New York, USA, currently
+globalizing. Our organization delivers interoperability across 7 divisions – education, finance,
+administrative, software engineering, IT infrastructure, data analytics and compliance. Each
+country office is supported with extensive resources, Sara Learning Philippines hosts our
+Software Engineering for global operations. Sara Learning Pakistan leads our Financial and
+Administrative divsions and scale up with additional country offices in Asia scheduled to open
+this year.
+Sara Learning Global is excited to submit a proposal for the SheTrades & UPS Project,
+empowering women entrepreneurs in Nigeria with digital literacy and trade skills. We
+leverage our expertise in online learning to deliver a comprehensive program, equipping
+women with the knowledge and tools to thrive in the digital age.
+Sara Learning Global is committed to bridging the digital divide and driving progress for
+women-led businesses in Nigeria. We believe our program will empower participants to
+unlock new opportunities and achieve sustainable growth in the digital marketplace.
+Our motto says it all – Transforming The Way We Learn!
+
+SECTION II. WHAT WE DO
+SARA LEARNING GLOBAL creates an ecosystem powered by net-centric architecture; a
+continuously evolving, complex community of people, devices, information and services
+interconnected by our technology platform (HOW WE DO IT) to advance education and
+information flow, increase employability in the digitally driven economy, and cost share
+critical services for improved quality of life.
+Massive Open Online Courses (MOOCS) and a Learning Management System (LMS) are mere
+components of a highly robust technology platform. Our mission is to empower organizations
+like ITC with an end-to-end training solution that is flexible, and effective. We tailor-fit your
+training requirements, incorporating access to critical support teams like:
+
+3
+
+PROJECT PROPOSAL
+
+Education. Subject matter
+expertise for formal and
+professional development.
+Digital Learning. Development
+&
+instruction:
+courses,
+examinations, Accreditations.
+Marketing. Creatives and
+channel management fostering
+active user participation.
+
+Business
+Intelligence.
+Organization, content, and
+user performance data &
+analytics.
+Finance. Aid programs for
+businesses and individuals
+fostering access to learning.
+Language. Multiple language
+support including English,
+and Spanish.
+
+SECTION III. PAST PERFORMANCE
+SARA LEARNING GLOBAL Partners include government, professional associations, nongovernmental organizations, corporations, academe, and citizens; Platform representative
+sample:
+NEPAL SKILLING SYMPOSIUM 2023 - VIRTUAL
+Sara Learning Global, in collaboration with esteemed organization like Council for Technical
+Education and Vocational Training, Nepal (CTEVT), is hosting a Virtual Nepal Skilling
+Symposium on 10th Feb 2024 in which youth from Nepal will learn new skills through digital
+technologies.
+This symposium served as a crucial platform for knowledge transfer and engagement. By
+connecting participants with leading experts and providing access to a comprehensive LMS,
+Sara Learning Global empowered Nepalis youth to unlock their potential and contribute
+meaningfully to their communities and the nation's future. The following are topics of the
+symposium.
+Development of Future Ready workforce through Digitalization
+Discover how to foster an A.I. ready culture in Marketing
+Revamping the Generations with Artificial Intelligence enabled eLearning modules
+Automated Assignment Scoring via Azure Open AI Service ChatGPT
+Modern Curriculum Development Techniques
+https://www.saralearning.com/nepal-skilling-symposium/
+
+4
+
+PROJECT PROPOSAL
+
+SARA LEARNING GLOBAL: EMPOWERING YOUTH IN PAKISTAN WITH DIGITAL SKILLS
+Challenge: Equipping Pakistani youth with relevant digital skills for the modern workforce
+within the BNIP (National Internship Program).
+Solution: Sara Learning Global, leveraging its expertise in instructional design and e-learning
+development, designed and implemented three impactful courses using the ADDIE model.
+These courses, aligned with BNIP's objectives, address crucial skill areas for employability
+and career progression.
+Key Features:
+Customized Design: Developed in close collaboration with BNIP and subject-matter experts, the
+courses ensure optimal relevance and effectiveness.
+Engaging Content: Utilizing the ADDIE model (Analysis, Design, Development, Implementation,
+and Evaluation), we crafted interactive and engaging learning experiences.
+Accessible Platform: Hosted on a user-friendly Moodle-based LMS, the courses are easily
+accessible to participants, fostering self-paced learning and continuous skill development.
+Impact:
+Empowered Youth: Over 600 Pakistani youth gained valuable digital skills in areas such as (Data
+Analytics, Cybersecurity, and Website Development).
+Enhanced Employability: The tailored curriculum directly addresses market demands, equipping
+participants with in-demand skills and increasing their job prospects.
+Sustainable Learning: The Moodle platform enables continued access to course materials and
+fosters a vibrant learning community for ongoing skill development.
+
+S.No
+
+Self-Paced course Title
+
+Link
+
+1.
+
+Basics of E-Learning
+
+https://lmss.saralearning.com/course/view.php?id=7
+
+2.
+
+Cyber Safe Learning
+
+https://lmss.saralearning.com/course/view.php?id=6
+
+3.
+
+Foundations of ChatGPT: Power of AI
+
+https://lmss.saralearning.com/course/view.php?id=9
+
+4.
+
+Build a Website with WordPress
+
+https://lmss.saralearning.com/course/view.php?id=8
+
+5
+
+PROJECT PROPOSAL
+
+In 2019, we have worked with ASSIST and CPSC (Colombo Plan Staff College, Manila) to develop
+micro-learning videos. The project is funded by VETToolbox, Enable, and the European Union.
+S.No
+
+Self-Paced course Title
+
+Link
+
+1.
+
+Teamwork skills – An Essential
+Element of Professionalism
+
+https://drive.google.com/file/d/1ogDs6CM1d1AQB r5tfoxhKAs6EfTKqdj/view?usp=drive
+
+2.
+
+Your Mindset – How to create a
+winning Attitude
+
+https://drive.google.com/file/d/1C85KPCv1SD13yWt7lFth3bOanaOTUjL/view?usp=drive_link
+
+3.
+
+Ethics and Etiquette at Work
+
+https://drive.google.com/file/d/110GlNlDAcO880b
+3fOnSstvcMmPUZtqd2/view?usp=drive_link
+
+In addition, we have developed the following self-paced courses, which consist of bite-size micro
+learning videos and are compatible with SCORM 1.2/2004. This means that they can be hosted in
+any learning management system. Lastly, those courses are mobile responsive.
+S.No
+
+Self-Paced course Title
+
+Link
+
+1.
+
+Food Standards
+
+https://samples.saralearning.com/samples/FoodStandards/story.
+html
+
+2.
+
+Employees Benefits
+
+https://samples.saralearning.com/samples/EmployeeBenefits/st
+oryhtml5.html?lms=1
+
+3.
+
+Strategic Marketing
+
+https://samples.saralearning.com/samples/REDC4_StrategicMark
+eting/story_html5.html?lms=1
+
+4.
+
+Critical Thinking
+
+https://samples.saralearning.com/samples/CriticalThinkingSkills/
+story.html
+
+5.
+
+Project Management
+
+https://samples.saralearning.com/samples/ProjectManagement
+Module4/story.html
+
+6
+
+PROJECT PROPOSAL
+
+PAKISTAN SKILLING SYMPOSIUM 2023 - VIRTUAL
+Sara Learning Global, in collaboration with esteemed organizations like Sindh TEVTA Pakistan, EFP
+Pakistan, Colombo Plan Staff College (Philippines), and Iqera, recently hosted the impactful
+Pakistan Skilling Symposium 2023. This virtual event equipped over 1,500 Pakistani youth with
+valuable skills through a dedicated Learning Management System (LMS).
+Renowned international speakers from diverse countries shared their expertise across four vital
+learning tracks:
+Project Management: Mastering the art of planning, execution, and control to efficiently
+navigate projects of all sizes.
+Sustainability and Green Education: Fostering environmental awareness and equipping
+participants with skills to contribute to a greener future.
+Cloud Computing: Demystifying the cloud and providing hands-on training on leveraging its
+powerful tools for enhanced productivity and innovation.
+E-Learning Development: Offered importance of e-learning in the context of South Asian
+countries.
+This symposium served as a crucial platform for knowledge transfer and engagement. By connecting
+participants with leading experts and providing access to a comprehensive LMS, Sara Learning Global
+empowered Pakistani youth to unlock their potential and contribute meaningfully to their
+communities and the nation's future.
+1.
+
+Participated by 1500+ individuals
+
+1.Pakistan Skilling Symposium 2023
+
+UNEP EXPERIENCE
+Since 2021, Sara Learning Global have been working with UNEP to develop new e-learning courses
+and migrate legacy courses into more intuitive and engaging format. We have applied ADDIE Model
+(Analysis, design, development, implementation, and evaluation) to develop learning solutions for
+UNEP. Furthermore, we are also responsible to the administrator InforMEA learning platform. Some
+of the following.
+S.No
+
+Impact Areas
+
+E-Learning Courses (SCORM 1.2/2004)
+
+1.
+
+Biological
+Diversity
+
+1.Introductory Course to the Convention on Biological Diversity
+(CBD)
+2.Introductory to Access and Benefit Sharing
+
+2.
+
+Climate and
+Atmosphere
+
+1.A participant guide of the UN Climate Change process
+2.Basic Principles of Chairing and Role of the Chairs of Meetings
+of the Basel, Rotterdam and Stockholm Conventions
+
+3.
+
+Environmental
+Governance
+
+1.Environment and Trade
+2.Introduction to Environmental Governance
+
+7
+
+PROJECT PROPOSAL
+
+SECTION IV. DESCRIPTION OF PROCESS FLOW AND PROJECT SCHEDULE
+PRESENTATION AND EXPLANATION OF THE IMPLEMENTATION PLAN - WORK STEPS,
+MILESTONES, SCHEDULE
+Good design, planning, and implementation are crucial for every type of training program. We will use the
+ADDIE model (analyze, design, develop, implement, and evaluate) for the four online training sessions
+(webinars) covering the defined curriculum for all 300 WLBs. Here, we will first present and elaborate on
+the identified work processes, followed by the operational work plan.
+Phase 1: Curriculum Review and Development
+The training design/instructional design as the key document of the training plan. It is creating the
+blueprint for the development of instruction and to implement the training plan, showing training
+objectives, competencies, schedule, training methods, training resources, role of trainers, and follow-up
+strategies. Based on the training plan, the detailed training design is develop as a guide for the trainer. The
+process contains some steps; a) Formulation and sequencing of learning outcomes, b) Identification of
+strategies, c) select instructional, media, delivery, and evaluation strategies, d) Development of training
+plan that outlines information; who will deliver the training online thorough digital platform. Lastly, we
+provide a contingency plan which outlines possible scenarios. Lastly, beneficiaries will be selected
+together with ITC (participants with basic digital skills and online presence).
+Collaborate with ITC to finalize the training curriculum on digital tools, data analytics, AI, and digital
+marketing.
+Refine the curriculum based on ITC feedback to ensure it meets project objectives and WLB needs.
+Work with ITC to select 300 WLBs with basic digital skills and online presence.
+Phase 2: Conduct Online Training and In-Country Workshop
+The time when the training and In-Country workshop will be conducted. We will be informed at least 4
+weeks before the online-training and at least 6 weeks before the start of the In-Country workshop. The
+training is carried out in online format. This will allow to develop and/or translate learning material
+tailored to the specific training request and preparation of agenda. It is planned to conduct online training
+for 300 WLB.
+Deliver four online training sessions (webinars) covering the defined curriculum to all 300 WLBs.
+Utilize online platforms provided by Sara Learning Global to conduct the webinars.
+Provide participants with training materials (presentations, PDFs) and record webinar sessions.
+Collect participant evaluations and track training completion data.
+Partner with ITC to organize a 2-day in-country workshop for 100 WLBs.
+Facilitate workshop sessions focused on applying AI, data analytics, and digital marketing for business
+growth.
+Provide workshop participants with necessary materials and resources.
+Collect participant feedback and workshop evaluation data.
+Submit a report to ITC detailing workshop activities, content, attendance, and results.
+
+8
+
+PROJECT PROPOSAL
+
+Phase 3: Participants’ evaluation of the training modules and coaching sessions
+We will develop evaluation sheets following the sequence and methodology of the Kirkpatrick training
+evaluation model. The Kirkpatrick training evaluation model has four levels, reaction, learning, behaviour
+and results/impact of training. In our training evaluation, directly after the training, we will provide a
+questionnaire in which we can get the immediate feedback/reaction of the participant about the
+satisfaction regarding the training delivery mode, the usefulness of the training, capacity of knowledge
+transfer into the work-life. Level 3 and 4 can be discussed with the project management team and might
+be useful if desired to be conducted after 6 months of the training. We adhere full compliance with the
+law to protect the data under the standards of the GDPR, in particular the Art. 44-50 GDPR and comply
+with the applicable obligations under data protection legislation.
+Categorize WLBs into small groups (max 5 participants) based on digital skills, products/services, etc.
+(in collaboration with ITC).
+Deliver 3 online coaching sessions (2 hours each) per group, providing personalized guidance on
+applying AI/ML in their businesses.
+Record coaching sessions for future reference.
+Follow up with each WLB after coaching to assess their progress in implementing an AI/ML strategy.
+Collect information on participants' digital transformation efforts and the impact on business growth.
+Conduct surveys or interviews with WLBs to gauge their learning outcomes and satisfaction.
+Compile a final report for ITC with individual reports on each WLB's AI/ML strategy, implemented
+changes, and business growth impact.
+We intend to provide technical support to participants to allow everybody to participate in due time and
+know how to use the digital learning facilities. We assume that there is a need to support the participants’
+computer and digital literacy level. In case of low internet connectivity, we intend to provide another
+access to follow the training. The LMS of Sara Learning Global may have such provisions.
+We will maintain regular communication with ITC throughout the project lifecycle. Moreover, we will
+share progress reports and address any concerns promptly. Be open to feedback and adapt the training
+approach as needed.
+By following this process flow and project schedule, Sara Learning Global can effectively deliver the
+SheTrades & UPS Project and empower Nigerian women entrepreneurs with the digital skills needed to
+thrive in today's marketplace.
+Design with Local Stakeholders
+The development of trainings based on local context is one of the central pillars of our strategy. All IDD
+documents and their content shall not primarily be developed by international providers, but also by local
+experts, keeping in mind the situation and context in AU. For this reason, expert focuses on design thinking
+process and on co- creation approaches. With this principle, a localization and contextualization of resources
+can be implemented.
+
+9
+
+PROJECT PROPOSAL
+
+Be Collaborative
+Fostering collaboration when developing digital content and capacity building are crucial for ensuring their
+effectiveness and smooth implementation. Here are some key strategies to achieve this:
+
+Involve Diverse
+Stakeholders
+
+Utilize Collaborative Tools
+and Platforms
+
+Promote Open
+Communication and
+Transparency
+
+Gather input from:
+SHETRADES AND UPS PROJECT
+team and local stakeholders.
+
+Leverage online collaboration
+platforms:
+like
+MS
+Team,
+SharePoint, to facilitate real-time
+document sharing, editing, and
+feedback.
+
+Share drafts and updates readily:
+for feedback and suggestions
+before finalizing procedures.
+
+Conduct surveys: to understand
+their needs, preferences, and
+concerns.
+Create representative working
+groups: tasked with specific
+development areas, ensuring
+diverse
+perspectives
+are
+considered.
+
+Utilize
+cloud-based
+project
+management platforms: to track
+progress, manage tasks, and assign
+responsibilities transparently.
+
+Encourage active participation
+and questioning: during meetings
+and discussions.
+Maintain clear communication
+channels: and promptly address
+any concerns or roadblocks.
+
+10
+
+OPERATIONAL WORK PLAN
+
+SECTION V. REFERENCES
+
+TITLE OF
+PROJECT
+
+YEAR &
+DURATION
+OF
+PROJECT
+
+InforMEA UNEP
+United Nations
+Environment
+Programme
+(UNEP)
+
+2021
+toDate
+
+RapidResponse
+eLearning
+Development
+for Regeneron
+
+2023
+toDate
+
+Digital Content
+Development
+National
+Internship
+Programme,
+Pakistan
+
+-
+
+SCOPE OF PROJECT
+
+OUTCOME
+
+REFERENCE/CONT
+ACT PERSON
+
+Create custom courses as
+duplicates
+of
+existing
+courses on other platforms,
+with
+some
+custom
+structures or unique.
+Gradual upgrade of 38
+existing courses to the
+course page format, in a
+way that avoids again
+duplicating the course
+
+Update the new courses
+into new format i.e.
+engaging and interactive
+by using Storyline.
+Administration
+of
+40,000
+InforMEA
+learning form users.
+Create 3 customized
+courses for UNCC Learn.
+
+1.Ms. Eva Duer
+Programme Lead
+eva.duer@un.org
+
+Revise training content,
+training exercises, training
+videos, and Q&amp;A upon
+environment refresh.
+Design and create learnercentered multimedia and
+technology-enhanced
+course
+materials
+and
+resources, including online
+modules, manuals, and job
+aids.
+Develop eLearning courrses
+
+Successfully conducted
+TNA.
+Prepared
+training
+strategy
+Developed training plan
+and
+implentation
+strategy
+Developed 18 videos
+and 9 users guides
+
+Bala
+Ramaligam
+Vice President Business
+Development
+Innova
+Solutions,
+USA
+baala.ramalingam
+@innova
+solutions.com
+www.innovasolutio
+ns.com
+
+06 months
+2023
+
+Develop 04 demand oriented
+courses for National Internship
+Programme candidates.
+
+Developed
+following
+courses and hosted on LMS.
+1.Build your website
+2.eLeanring Development
+3.Foundations
+of
+AI
+Cybersecurity
+
+Mr. Shoaib Fida
+Khan Tanoli Project
+Director,
+BNIP
+pd@bnip.gov.pk
+
+Learning
+Management
+System
+for
+Employers’
+Federation of
+Pakistan
+
+2022 - 2023
+
+Develop
+a
+Learning
+Management System - Moodle
+for employers
+
+Successfully
+deployed
+the system.
+Trained the EFP staff on
+how to administrator
+the LMS
+
+Mr. Syed Nazar Ali
+General Secretary,
+EFP, Pakistan
+
+Pakistan
+and
+Nepal Skilling
+Symposium
+2023 - 2024
+
+2023 - 2024
+
+Train 10,000 youth of Pakistan
+and Nepal on demand oriented
+courses
+through
+blended
+learning approach
+
+Trained 1500 youth of
+Pakistan by International
+experts
+
+Mr. Munawar Ali
+Mithani, Managing
+Director,
+Sindh
+TEVTA
+md@stevta.gos.pk
+
+-
+
+2.
+Ms.
+Agnes
+Velican
+agnes.velican@eau
+deweb.ro
+
+12
+
+PROJECT PROPOSAL
+
+SECTION V. EXPERT CVs
+EXPERT 1: TEAM LEADER – DR. MATTHIAS SEELER
+
+14
+
+PROJECT PROPOSAL
+
+15
+
+PROJECT PROPOSAL
+
+16
+
+PROJECT PROPOSAL
+
+EXPERT 2: KEY EXPERT – RAMHARI LAMICHHANE
+
+RAMHARI LAMICHHANE
+HEAD OF SARA LEARNING GLOBAL PHILIPPINES
+
+PROFILE
+
+FAMILY NAME:
+FIRST NAME:
+DATE OF BIRTH:
+NATIONALITY:
+CIVIL STATUS:
+
+Lamichhane
+Ramhari
+April 8, 1966
+Nepal
+Married
+
+CONTACT
+rhlamichhane@gmail.com
+Ganeshman Singh Path, House # 1766,
+Kalankisthan, Kathmandu-14, Bagmati, Nepal
+
+Extensive government job experience has been gained, spanning roles from instructor to
+CEO of the TVET Authority of Nepal over a period of 25 years. Similarly, work experience
+has been accumulated with the private sector, development partners, and international
+organizations for about 12 years. A strong connection with the government system and
+development partners in Nepal has been established. Likewise, recognition is held by most
+of the TVET authorities in the Asia Pacific Region, as collaborative work was undertaken
+with them during the tenure at Colombo Plan Staff College/Asia Pacific Accreditation and
+Certification Commission in Manila, Philippines.
+Competencies are held in project design and management, TVET, monitoring and
+evaluation, quality management systems (QMS), financial management, accreditation, and
+human resource development in the TVET sector.
+Countries of Work Experience/Visits
+
+EDUCATION
+Educational Planning, Leadership,
+and Administration
+
+Peabody College, Vanderbilt
+University, USA,
+2010-2011
+
+Ph.D. in Education
+
+Kathmandu University
+Nepal
+2006
+
+Membership in Professional and Social Associations
+Advisor, Education Council, Confederation of Nepalese Industries (CNI)
+Project Assessor, International Project Management Association (IPMA)
+Life Member, Hubert Humphrey Fellowship Alumni
+Life Member, Australia Nepal Alumni
+Member, Lions Club of Agrani, Kathmandu
+Awards and Recognition
+
+M.Phil. in Education Leadership
+
+Kathmandu University
+Nepal
+2001
+
+LANGUAGES
+English
+Nepali
+
+Bangladesh, Bhutan, China, Fiji, France, Georgia, Germany, Hong Kong, India, Israel,
+Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Russia, Saudi Arabia,
+Singapore, South Korea, Sri Lanka, Switzerland, Thailand, USA
+
+English C2 (Proficient)
+
+LANGUAGES
+
+Special Officer of Asia Pacific Accreditation and Certification Commission (APACC) for Nepal
+Panelist at Brooklin Institute Washington DC, USA in 2020
+“World Education Leadership Award” by World Education Congress, 2018
+“252 Fabulous Leadership Award” by World Education Congress, 2019
+“Humphrey Fellowship”, Fulbright Commission, USA, 2010-2011
+“Hashimoto Scholarship” by Hashimoto Foundation, 2000
+“Gorkha Dakshin Bahu Chautha” by Late King Birendra Bir Bikram Shah, 2001
+
+Hindi
+English
+Urdu
+
+17
+
+PROJECT PROPOSAL
+
+EXPERT 2: KEY EXPERT – RAMHARI LAMICHHANE
+PROFESSIONAL EXPERIENCE
+Nov 17 - Nov 20, 2022
+
+EXTERNAL COLLABORATOR, PROJECT COMPLETION
+EVALUATION EXPERT
+
+INTERNATIONAL LABOUR ORGANIZATION, NEPAL
+Conduct project completion evaluation of the Welcome
+Home Project.
+
+NATIONAL CONSULTANT
+(INTERMITTENT)
+
+15 Nov 2022 - 30 Jan 2023
+
+UNDP, NEPAL
+Develop project document of SKILLS II Project,
+UNDP/MOEST for 2023-2028. The key components are
+ICT and Digital technology, Blended lLEarning and green
+and indegeneous skills.
+
+TVET EXPERT (INTERMITTENT)
+
+18 Oct 202130 August 2022
+
+ASIAN DEVELOPMENT BANK
+Coordinate with the Government, facilitate to project
+design team, and provide technical inputs to the ADB
+team to design Skills Development Project (2022-2027)
+focusing on ICT and Digital Technology, Blended
+Learning and Green Skills.
+
+TEAM LEADER
+
+DIRECTOR GENERAL
+
+Sep 2016 – Aug 2021
+
+COLOMBO PLAN STAFF COLLEGE, MANILA,
+PHILIPPINES
+Coordination with 16 member countries and other
+Colombo Plan member countries; Conducts TNA of 16
+member countries (Asia –Pacific region) for TVET
+manager, teacher, and staff; Carry out TVET research;
+Supervises in-country, regional, and international
+capacity development training programs; Organizes
+conferences and seminar; Participates in international
+forums; Coordination and networking with member
+states and international organizations; Manages
+Governing Board meeting; Prepares periodic reports;
+Manages daily operations of the Staff College, including
+staff and faculty members, carryout TVET related
+research such as labor market study, TVET Pedagogy,
+Impact study, M&E, Quality Assurance, etc.
+Facilitate training on ICT and Digital technology, 21st
+Century Skeills, E- Learnings, Blending learnings,
+Greening TVET, QMS, placement, and counseling,
+industry-institute linkages, job fairs, business incubation
+centers, enterprise development, technopreneurship,
+etc.
+
+1 Sep 2021 – 30 Dec 2021
+
+SDC, NEPAL
+Lead the team to conduct an economic and labor market
+study of the 18 economic sub-sectors to support
+strategy development of Nepal’s TVET Sector.
+
+PRESIDENT
+
+2016 – present
+
+ASIA PACIFIC ACCREDITATION AND
+CERTIFICATION COMMISSION, MANILA,
+PHILIPPINES
+Oversees daily operations of APACC (Regional TVET
+Institutional Accreditation Body); Initiates the review
+and continuous improvement of accreditation
+instrument; identifies and executes promotional and
+networking strategies of APACC; Supervises planning of
+accreditation activities; Manages a pool of APACC
+certified accreditors; Chairs APACC Board Meetings.
+
+17
+
+PROJECT PROPOSAL
+
+EXPERT 3: KEY EXPERT – ABDUL GHANI RAJPUT
+
+ABDUL GHANI RAJPUT
+HEAD OF SARA LEARNING GLOBAL USA
+PROFILE
+
+FAMILY NAME:
+FIRST NAME:
+DATE OF BIRTH:
+NATIONALITY:
+CIVIL STATUS:
+
+Rajput
+Abdul Ghani
+April 16, 1980
+Pakistan
+Married
+
+CONTACT
+a.g.rajput1@gmail.com
+18 Schuyler Road, Loudonville, Albany NY, USA
+
+EDUCATION
+Master in Computer Science
+
+University of Twente, Netherlands
+2009-2011
+
+Master of Engineering
+
+Mehran University of Engineering
+& Technology, Pakistan
+2005 - 2007
+
+Bachelor of Computer Engineering
+
+Hamdard University, Pakistan
+1999 - 2022
+
+LANGUAGES
+English
+Sindhhi
+
+I have extensive experience in the learning &amp; development sector, having navigated it
+myself for almost 10 years, from studying sustainable science, to obtaining a master&#39;s
+degree in Computer Science in Information System Engineering. I completed my academic
+background with solid professional experience and project management skills in crosscultural environments.
+In addition to my educational experience, my work with the UNEP for 2 years as Sr. Elearning Developer has enabled me to gain valuable project management skills.
+Simultaneously, I worked for Go Philippines as Team Lead – Digital Learning
+Team to develop digital solutions for DICT, CEBU, and Microsoft Philippines. Furthermore, I
+have implemented eLearning projects in Ethiopia, Philippines, India, Pakistan, Nepal, and
+USA. Moreover, I have extensive experience to conceptualize and implement Assistive
+Products training programmes for Deaf Reach institute, Pakistan.
+Experience of implementing eLearning for Convention for Biological Diversity (CBD) and
+CITES (the Convention on International Trade in Endangered Species of Wild Fauna and
+Flora). Moreover, I have introduced eLearning at Sindh TEVTA to train a diversified
+audience including Deaf Reach beneficiaries.
+I myself have solid experience in leading multidisciplinary professional teams and in
+conducting policy dialogue with the stakeholders in the development sector. I believe
+that my professional and personal knowledge will contribute to development of TAP
+modules.
+Ten years of professional experience in the field of adult education and instructional
+design, both on managerial/ institutional and operational/course level, working as eLearning Consultant, Trainer and Professor, developing training and study degree
+courses in Ethiopia, Philippines, India, Pakistan, Nepal, and USA.
+Highly experienced in the field of digital transformation processes and change
+management in these processes, introducing the first eLearning-based course i.e.
+training module on Hearing Impairment at Deaf Reach.
+Eight years proven experience in change management and project management in
+leading positions as decision-maker.
+
+English C2 (Proficient)
+
+LANGUAGES
+
+Hindi
+English
+Urdu
+
+17
+
+PROJECT PROPOSAL
+
+PROFESSIONAL EXPERIENCE
+
+PROJECT MANAGER
+
+Sep 2023 - toDate
+
+SARA LEARNING GLOBAL
+Assist the Sara Learning Global Staff in resource generation
+through commissioning income-generating projects.
+Lead the management and implementation of Sara’s
+projects from initiation, design, proposal-making,
+marketing, coordination, evaluation, and closure stages.
+such as customized training programs, international
+conference, and study visits.
+Identified delivery strategies of e-learning contents
+including all multimedia assets, interaction flow, and
+animation identification.
+Use authoring tools to package and export SCORM
+complaint contents for Moodle LMS.
+Administered LMS platform for course management and
+identify features development needs.
+Supervised creative team to ensure quality output and
+meet all project deadlines.
+
+DIGITALIZATION ADVISOR - ETHIOPIA
+DEUTSCHE GESELLSCHAFT FÜR
+INTERNATIONALE ZUSAMMENARBEIT ETHIOPIA)
+Aug 2022 - Aug 2023
+Lead and coach the digital design team in the creation of
+creative, high impact multi-platform
+digital content that meets the very highest quality
+standards for TVET institutions, Ethiopia.
+Develop annual work plan for the implementation of
+Training of Trainer.
+Facilitate and support MoLS to establish partnership with
+Chambers and local industry associations.
+Drive innovation through the use of new digital content
+tools such as Articulate Storyline and technologies
+throughout the organization.
+Take ownership and quality assure the deliverables of the
+digital design team to ensure that the outputs meet the
+needs of the client and project specification.
+Present analysis and recommendations, drive workshops
+with MoLS audience.
+Produce executive-ready content on various topics (e.g.
+industry landscape, business strategy etc.)
+Led the Creative Team to provide the company’s digital
+media services (Website, AVPs, collaterals, etc) for
+trainings, events and conferences, in-house and public
+trainings.
+
+E-LEARNING DEVELOPER
+
+Feb 2021- Feb 2023
+
+UNITED NATIONS ENVIRONMENT PROGRAMME –
+COMPLIANCE AND REGULATED ENVIRONMENT
+Participate in the need’s assessment, design, and
+development of virtual training, elearning, and social
+learning under strict and tight timelines.
+Aptitude to work independently to address MEAs partners
+requirements related to Compliance and Ethics training and
+set priorities for the new deployments.
+Contribute to storyboarding, authoring, streaming media,
+audio/video technologies and development of e-learning
+content and blended learning solutions with subject-matter
+experts.
+Design effective instructional policies and technologybased resources applying adult andvworkplace learning
+principles.
+Develop online material and assessment tools including
+audio and video clips, simulations, role
+plays, games, etc., in multiple languages by using
+multimedia software.
+Incorporate the relevant inclusion standards (Web Content
+Accessibility Guidelines WCAG 2.1 level AA) in the
+preparation of e-learning modules.
+Design and develop the user interfaces and related
+features, and the navigation for the LMS, in multiple
+languages.
+Develop courses that can be shared across different LMSes
+(interoperability).
+Develop and edit audio and video materials by using
+Camtasia and Adobe tools.
+Employ effective project management and time
+management strategies while working on multiple course
+development projects simultaneously.
+
+TVET FACULTY SPECIALIST
+
+March 2019 - Feb 2021
+
+COLOMBO PLAN STAFF COLLEGE, PHILIPPINES
+Plan, create, develop, and implement face-to-face, webinars,
+web-based training, self-paced training, and learning
+technology programs for government officials of CPSC’s 16
+member states.
+Develop engaging e-learning modules from provided content
+and storyboards editing graphics, audio, video, and
+incorporating graphics as required.
+
+PROJECT PROPOSAL
+
+PROFESSIONAL EXPERIENCE
+Use various ICT technologies for deploying e-learning
+modules with minimal engagement
+Administer the CPSC Online Course Ubiquitous Real-time
+System of Education (OnCOURSE) portal
+(Moodle-based
+Learning
+Management
+System).
+https://oncourse.cpsctech.org/
+Facilitate recording of CPSC online regional programs and
+webinars presentations.
+Manage the development of video-based training content
+in cooperation with TDD and ICT team.
+Publish and conduct research on different thematic areas
+and contribute to the implementation
+of research and publications division activities.
+
+CHAIRPERSON – PROJECTS AND CONSULTANCY
+DIVISION
+Dec 2019 – Feb 2021
+COLOMBO PLAN STAFF COLLEGE, PHILIPPINES
+Assist the CPSC staff in resource generation through
+commissioning income-generating projects such as
+customized training programs, international conference,
+and study visits.
+Prepare yearly operational plan, and other periodic reports
+of the Projects and Consultancy Division.
+Lead the management and implementation of CPSC
+projects from initiation, design, proposal-making,
+marketing, coordination, evaluation, and closure stages.
+
+DIGITAL SKILLS FOR FUTURE OF WORK
+CONSULTANT
+Jun 2021 – Dec 2021
+DEUTSCHEN GESELLSCHAFT FÜR
+INTERNATIONALE ZUSAMMENARBEIT (GIZ) GMBH
+Identify the required digital skillsets for FoW in Retail &
+Logistic sector of Indonesia, India and Pakistan in light of
+the COVID pandemic and technological advancements.
+Conduct virtual meetings arranged by the CoP members for
+consultant with relevant stakeholders by incorporating
+technical input.
+Identify occupational standards (skill set) based on the
+technological changes in the selected occupations in these
+countries.
+Identify requirements of teacher’s trainings in future skills
+based on technological changes in the selected
+occupations.
+List out required changes in institutions (TVET/industrial)
+based on technological changes in the selected
+occupations.
+Draw learnings and make recommendations for policy and
+operational level interventions required to address the
+changing landscape of the sectors with regards to digital
+skills.
+
+ECHNICAL ADVISOR – HUMAN RESOURCE
+DEVELOPMENT AND CBTA
+July 2013 – Dec 2017
+
+QUALITY ASSURANCE FRAMEWORK DEVELOPMENT
+FOR TVET
+Dec 2020 – Nov 2021
+
+DEUTSCHEN GESELLSCHAFT FÜR
+INTERNATIONALE ZUSAMMENARBEIT (GIZ) GMBH
+
+UNITED NATIONS EDUCATIONAL, SCIENTIFIC
+AND CULTURAL ORGANIZATION (UNESCO)
+
+Facilitated the development and implementation of 60
+distance education programs.
+Coordinated and linked capacity-building activities within
+Sindh province in order to promote accreditation, distance
+learning, computer based training and organizational
+development.
+Trained 150 e-tutors/trainers on In-Service Training Program
+as Lead Trainer to promote blended learning approach.
+Supported the development of a 5-year (2015-2020) annual
+work plan to implement national TVET policy in public and
+private institutes in the Sindh province to improve TVET
+system.
+Designed and managed Training of Trainers (ToT) for the
+CBT&A implementation programme to train a pool of up to
+50 master trainers.
+
+Facilitated staff training on universal design and ADA
+compliance through CF’s Digital Literacy and Compliance
+(DLC) process.
+Created training materials for UNESCO staff to reference
+while using the technologies.
+Visualizes instructional graphics, the user interface, and
+the finished product.
+Used set of instructional end goals and create content
+that matches them.
+Translated course content into graphics suitable for use by
+marketing.
+Works with subject matter experts to identify the target
+audience’s training needs.
+
+PROJECT PROPOSAL
+
+ERWIN ANCHETA
+E-LEARNING SPECIALIST | LEARNING TECHNOLOGY SPECIALIST
+MULTIMEDIA DEVELOPER|UI/UX DESIGNER|INTERACTIVE DESIGNER
+PROFILE
+
+FAMILY NAME:
+FIRST NAME:
+DATE OF BIRTH:
+NATIONALITY:
+CIVIL STATUS:
+
+Ancheta
+Erwin
+Philippines
+Married
+
+CONTACT
+eancheta1168@gmail.com
+1168 Mariveles St. Malinta, Valenzuela City,
+Philippines
+
+EDUCATION
+BS in Computer Engineering
+
+AMA Computer University
+Project 8, Quezon City, Philippines
+September 1998
+Primary & Secondary
+
+St. Jude Academy, Mainta
+Valenzuela City, Philippines
+1984 - 1994
+
+More than 15 years in the e-Learning industry with extensive exposure in various
+capacities. This includes e-Learning creative design philosophy implementation, adult
+learning principles/ methodology (ADDIE, SAM). Paper to e-Learning multimedia contents,
+storyboarding, Learning Management System (LMS), SCORM, TINCAN, xAPI. This
+encompasses team management and leadership, resource management and quality
+assurance.
+PROFILE
+
+E-LEARNING TOOLS
+Articulate 09/13/360
+Articulate Storyline
+Adobe Captivate 8
+Adobe Presenter
+iSpring Suite 7
+
+iSpring Suite 7
+Camtasia
+Snagit
+SwiftTalker
+MDM Zinc v3.0
+
+GRAPHIC/ WEB DESIGN/ 3D/ DIGITAL PUB
+Adobe Illustrator CC
+Adobe Photoshop CC
+Adobe Fireworks C56
+Adobe XC CC
+Adobe Muse CC
+Adobe Reflow CC
+Google Web Designer
+
+Figma
+Dream 3D
+AutoCAD 2005
+Power Shape
+Sketchup
+iBooks Author
+
+MULTIMEDIA, ANIMATIONS & VIDEOS
+Adobe Animate CC
+Adobe Edge CC
+Adobe Premier CC
+
+Adobe AfterEffects CC
+Adobe SoundBooth CC
+VYOND
+
+PROGRAM LANGUAGES
+
+LANGUAGES
+English
+
+English C2 (Proficient)
+
+HTML/CSS
+MDM Zinc Script
+AUGMENTED REALITY
+Zapworks
+
+XML
+ActionScript 1/2/3
+
+PROJECT PROPOSAL
+
+PROFESSIONAL EXPERIENCE
+
+ASSOC HEAD - E-LEARNING
+CREATIVE DESIGN & DEV /
+MULTIMEDIA DEVELOPER
+SITE ONLINE LEARNING
+
+Mar 2014 - Nov 2021
+
+Jan 2003- April 2008
+
+MAP JAPAN
+
+Built the e-Learning multimedia team for the company.
+Started as the only e-Learning developer then scaled the
+team to 10 developers, a combination of full-time and
+contractor employees.
+achieving e-Learning creative philosophy an standardization
+of output across the teams.
+Engaged with instructional systems design and adult
+learning theory to organize workflow to design and develop
+interactivity and storyboards for e-Learning.
+Identified delivery strategies of e-learning contents
+including all multimedia assets, interaction flow, and
+animation identification.
+Use authoring tools to package and export SCORM
+complaint contents for Moodle LMS.
+Administered LMS platform for course management and
+identify features development needs.
+Supervised creative team to ensure quality output and
+meet all project deadlines.
+
+SENIOR MULTIMEDIA
+DESIGNER/DEVELOPER
+ECC INTERNATIONAL CORP
+
+MULTIMEDIA DESIGNER
+
+Feb 2009 - March 2014
+
+Creatdd interactive e-Learning courseware (SCORM) for
+Smart, ADB, Metrobank, SM, and Inwent and it will be used
+for the company’s Learning Management System (Moodle,
+NetDimension).
+Developed and created interactive CBT (Computer Based
+Training) for UNILAB, UNEP, UNIDO, TUV, Inwent. The
+toolkits are developed using Adobe Flash, Illustrator,
+Photoshop, Fireworks, MDM Zinc 3& integrated w/XML and
+PHP, Articulate and Moodle.
+Converted print collaterals to digital ap for iPad using
+Adobe DPS, iBooks Author.
+Created eTool Assessments using Flash AS3 an PHP for the
+company’s product campaigns.
+Led the Creative Team to provide the company’s digital
+media services (Website, AVPs, collaterals, etc) for
+trainings, events and conferences, in-house and public
+trainings.
+
+Created all multimedia graphic designs for the business.
+This involves the design and co-ordination of all digital
+media graphic including ash interactive animations,
+presentations, brochures, logos, adverts, corporates
+literature/ branding, exhibition material and the company’s
+websites. Support their database management. Assigned
+to install and maintain the company’s computer networks
+(LAN).
+
+GRAPHIC DESIGNER
+
+June 2002 - Dec 2002
+
+ROYAL PRINTING
+Created designs for T shirts and other text tile materials. In
+designing, we do color separation in Adobe Photoshop an
+illustrate for silkscreen printing. The design concept is
+based on the latest brands a today’s fashion.
+
+MULTIMEDIA DESIGNER
+
+June 2001 - Feb 2002
+
+BIG CAPITAL SDN BHD
+Assisted to be one of the developers of the company’s
+product website. It’s an e-commerce portal for shops in
+Malaysia. Most of the links were Flash-based sites.
+Developed interactive animations using Macromedia Flash
+5, Dreamwever, and MS Powerpoint 2000 for the
+company’s presentation in (NILC) National Internet Literacy
+Campaign in Malaysia.
+Tasked to train students in the area of Multimedia/ Web
+and Graphic designing. the platforms are Macromedia
+Flash, Fireworks 5, Dreamweaver, as well as MS Powerpoint.
+
+WEB/ GRAPHIC DESIGNER
+
+Nov, 2000 - May 2001
+
+DONG FOONG ELECTRONIC & COMPUTER
+Tasked to do animation presentation for the company’s
+product demo. This involves the design and co-ordination
+of all corporates graphics including brochures, logos,
+presentations, adverts, corporates literature/ branding,
+exhibition material and the company's website. Engaged in
+C Programing, Circuit PC debugging and supervising their
+production staff
+21
+
+PROJECT PROPOSAL
+
+TIFFANY MARGAUX T.KESLER
+PROFILE
+
+FAMILY NAME:
+FIRST NAME:
+DATE OF BIRTH:
+NATIONALITY:
+CIVIL STATUS:
+
+Kesler
+Tiffany
+Philippines
+Married
+
+CONTACT
+tmargaux.kesler@gmail.com
+
+EDUCATION
+Graduation Studies
+
+MA Computer Science
+
+An experienced Instructional Designer and E-learning developer using Articulate Storyline
+as my main authoring tool since 2018, using the ADDIE and AGILE methodology in course
+creation, while trying to achieve higher tiers in the Kirkpatrick model of evaluation. As an Elearning designer, I also use Camtasia, Vyond, MS Powerpoint, Shutterstock and some
+Adobe Premiere Pro, and voice-overs to elevate the course design, whether self-paced or
+trainer-led.
+I am also a Berlitz passer and Versant-certified, a trainer for GAC Reading, Writing, Listening
+and Speaking accredited by the ACT, TEFL Certified, CELTA method trained, and a certified
+international trainer by the PJMCC with a Certificate on IMO 6.09 Training for trainers
+
+Countries of Work Experience/Visits
+Bangladesh, Bhutan, China, Fiji, France, Georgia, Germany, Hong Kong, India, Israel,
+Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Russia, Saudi Arabia,
+Singapore, South Korea, Sri Lanka, Switzerland, Thailand, USA
+
+2012-2013
+
+UNDERGRADUATE STUDIES
+BA Communication concentration
+on Journalism, minor in Broadcast
+Communication University of the
+Philippines - Baguio
+2004-2008
+
+HIGH SCHOOL
+
+Ecumenical Christian College
+Tarlac City
+2000-2004
+
+LANGUAGES
+English
+
+English C2 (Proficient)
+
+Nepali
+Hindi
+Urdu
+
+21
+
+PROJECT PROPOSAL
+
+E-LEARNING COURSE DEVELOPER
+
+2022-present
+
+PCIS DATA SERVICES, INC. ACADEMX INC PHILIPPINES, REMOTE
+·Design and develop high-quality, interactive e-learning
+content that combines multiple components for a
+positive user experience: presentations,
+demonstrations, simulations, activities, quizzes, job aids,
+and other materials as needed
+·Build e-learning content that can be published (SCORM,
+MP4) and tracked within the LMS/CMS
+·Team with subject matter experts to gather
+requirements and incorporate expertise and best
+practices into curricula and learning objectives
+·Provide voice-over to training materials
+·Use Articulate Storyline 360 in developing courses
+
+INDEPENDENT CONTRACTOR
+
+LTV PLUS LLC PHILIPPINES, REMOTE
+·Designs and develops entire courses or curriculums
+and creates training materials, such as training manuals
+and participant guides.
+·Manages overall projects to ensure a globally
+consistent training experience that directly impacts
+staff success.
+·Promotes collaboration, partnership and relationships
+among the SMEs and stakeholders in a design project.
+·Consults, analyzes, and develops highly engaging and
+interactive learning solutions focused on campaign
+specific job competency development.
+·Applies advanced adult learning theories into practical,
+application-based learning strategy.
+·Develops comprehensive measurement strategies for
+all learning solutions to demonstrate business impact
+and effectiveness.
+·Communicates effectively in visual, oral, and written
+form and delivers engaging ·presentations to business
+leaders.
+·Acquires and applies new technology skills to
+instructional design practice.
+·Remains a thought leader in instructional design and
+innovation.
+·Designs learning that reflects an understanding of the
+diversity of learners, including the demonstrated
+understanding of cultural differences that may apply.
+
+Present
+
+INDEPANDANT CONSULTATNT
+BIHASA LEARNING SYATEM, INC. ANTIPOLO, RIZAL
+
+Write content and training materials for local and
+international companies in need
+Write scenario-based trainings, explainers, and
+design custom activities
+Research, edit and produce training materials depending
+on client's needs
+Providing skill-based and knowledge-based objectives
+based on client KSME needs
+Finish scripts and content and meet internal
+HEAD CONTENT WRITER/ LEAD INSTRUCTIONAL
+DESIGNER
+2018-2021
+
+SITE SKILLS TRAINING, CLARK, PAMPANGA
+2021
+
+Writing content and training materials for local and
+international companies in need
+Write scenario-based trainings, explainers, and design
+custom activities
+Research and edit depending on client's needs
+Write project content maps
+Providing skill-based and knowledge-based objectives
+based on client KSME needs
+Gather information during discovery workshops with
+clients
+Finish scripts and content and meet internal and clients
+deadline
+Provide learning design strategies such as microlearning
+gamification,
+scenario-based
+eLearning,
+online
+assessment and social learning to deliver training
+program in the digital platform using Storyline,
+Camtasia and Vyond
+Lead discovery workshops to identify training needs,
+learning objectives, and project scope
+Analyze client requirements and gives recommendation
+on learning design
+Evaluate learning strategies based on usability
+Lead and mentor a group of instructional designer and
+content writers
+
+21
+
+PROJECT PROPOSAL
+
+2016-2019
+FOREIGN ENGLISH TRAINER/FACILITATOR
+WALL STREET ENGLISH MAKATI, PHILIPPINES
+Prepare and disseminate learning materials for foreign
+students.
+Facilitate a free flowing but structured discussion with
+adult students based on different topics.
+Assess students' English communication skills using the
+Wall Street Method, heavily influenced by the CELTA
+method.
+
+GAC ASSISTANT DIRECTOR
+(GLOBAL ASSESSMENT CERTIFICATE)
+
+2015 to 2016
+
+SMEAG PRIVATE SCHOOL INT’L
+BAMBAN TARLAC
+
+INSTRUCTOR
+2011-2013
+PHILLIPINE WOMEN UNIVERSITY, TARLAC CITY
+Lecturer for different English and Communication
+subjects for Education college students.
+Create different syllabi at the beginning of semesters
+subject for approval of the Dean of the College of
+Education, to have a clear teaching schedule that is in
+line with the subject, and the College's mission and
+Vision
+Prepare, conduct and grade exams.
+Provide feedback for Projects, Homework and
+discussions.
+Facilitate seminars for students as needed in the
+course.
+
+Support the Director of Studies in the general
+administration and operations of the Global
+Assessment Center program.
+Provide administrative and logical support to the
+director in preparation for and during events
+Facilitate College-grade reading and writing to foreign
+students wanting to attend university in other countries
+Plan and present event proposals, recruitment
+activities, seminars, programs and travels for the
+foreign students
+Develop and facilitate IELTS/TOEFL/TOEIC style
+questions for modules for students and teachers'
+training.
+
+INSTRUCTOR
+
+2013
+
+COLLEGE OF THE HOLY SPIRIT, TARLAC CITY
+Lecturer for different English and Communication
+subjects for Education college students.
+Create different syllabi at the beginning of semesters
+subject for approval of the Dean of the College of
+Education, to have a clear teaching schedule that is in
+line with the subject, and the College's mission and
+Vision
+Prepare, conduct and grade exams.
+Facilitate seminars for students as needed in the
+course.
+
+21
+
+PROJECT PROPOSAL
+
+BACKSTOPPER RESUME
+
+NIDA QAZI
+DIGITAL LEARNING EXPERT
+
+PROFILE
+
+FAMILY NAME:
+FIRST NAME:
+DATE OF BIRTH:
+NATIONALITY:
+CIVIL STATUS:
+
+Qazi
+Nida
+March 27, 1981
+Pakistan & USA
+Married
+
+CONTACT
+qazi.nida19@gmail.com
+
+I have over 8 years of experience working in the education and training industry. I
+have worked in various roles, including Instructional Designer, eLearning
+Development, eLearning Project Management, change management, digitalization
+in education. Moreover, I have recently completed eLearning guidelines
+development project for InforMEA, Nairobi, Kenya.
+I completed my academic background in Computer Science with solid professional
+experience and change management skills in cross-cultural environments. My
+experience includes creating and designing digital learning materials and
+developing e-learning content that combines multiple components for a positive
+user experience
+
+2340 Carta Way, Apt. No. 5010 Herndon VA 20171
+
+EDUCATION
+Master of Computer Science
+
+Columbia University,
+New York City, New York, USA
+
+Membership of Professional bodies: The Association for Educational
+Communications and Technology
+Other Skills: Excellent writing skills, Content Development Skills, LMS Skills,
+Instructional Design, Excellent Computer skills (Operating systems, Office suites,
+Presentation software, Spreadsheets, Communication and collaboration tools, Elearning tools/instruments/platforms)
+
+2009 – 2011
+
+Key Qualification:
+Master of Business Administration
+
+University of Sindh,
+Jamshoro, Sindh, Pakistan
+2003 - 2004
+Bachelor of Science in Computer
+
+Oklahoma State University,
+Stillwater, Oklahoma, USA
+1999 – 2003
+
+LANGUAGES
+English
+
+English C2 (Proficient)
+
+8 years of expertise in adult education & instructional design: Both on
+managerial and operational level, working as Instructional Designer, eLearning
+Developer, Content Writer etc.
+Designing, development, managing and implementing digital learning solutions
+for international NGOs and corporate sector organizations in multiple
+countries.
+5 years in digital learning solutions development experience to digital
+learning solutions for multi-national organization.
+Ten years of specific experience in digitalized education and in the
+implementation of blended and e-learning formats at Universities of Applied
+Sciences with substantial linkages to vocational education (Dual Studies),
+developing degree courses based on eLearning and blended learning formats,
+with a mix of classroom lectures, synchronous (live) online lectures and
+asynchronous teaching components.
+Over 3 years of experience in international DC with UN organization, incl.
+focusing on elearning and digitalization projects.
+Certified Instructional Designer by Middle Earth HR, India.
+22
+
+PROJECT PROPOSAL
+
+PROFESSIONAL EXPERIENCE
+
+SENIOR MANAGER, LEARNING
+EXPERIENCE DESIGN
+
+Jan 2022 - Nov 2023
+
+June 2017 - Aug 2022
+
+UNEP (CONTRACT) - REMOTE
+
+INNOVA SOLUTIONS, USA
+Creating and aligning the strategic direction towards Global
+Partner Enablement worth $80M in Q2,2022.
+Managing a team of 5 Individual Contributors to give
+technical support, process and policies to our partners.
+Implemented a LMS – Mindtickle to enable 10000+ partner
+with synchronous and asynchronous sales enablement
+training.
+Create workflows and strategies to integrate our LMS with
+our CRMs and HRMs.
+Conduct team performance reviews on a quarterly basis.
+Designed a Learning vs. Performance Model to analyze the
+gaps using Key Performance Indicators - KPIs.
+Architect process automation to identify, development.
+and deployment.
+Implemented AI ChatBot to help customers best
+recommendation, which reduced employee time by 80%. –
+Used FlowXO.
+Manage SCRUM meetings to understand the product
+backlog, features, bugs/fixes, and specifications rolling out
+in the next sprint release and incorporate that in training.
+
+ACHIEVEMENTS
+Developed OpenLMS guidelines and standard operating
+procedures.
+Successful implementation of OpenLMS for Clark
+Associates along with LMS manual.
+Successful completion of of AI ChatBot to facilitate
+customers.
+
+PUBLIC POLICY INTERN
+
+E-LEARNING DEVELOPER
+
+June 2004 - Aug2004
+
+ECONOMIC AND SOCIAL COUNCIL (ECOSOC),
+UNITED NATIONS (UN), USA
+Co-authored U.N. Secretary General’s report on
+globalization and independence
+Coordinated a high-level segment of the ECOSOC and
+Development Cooperation Forum
+Participated in thematic debates on economic growth
+through human resource development
+
+18 new InforMEA Courses developed in accordance with a
+defined
+effective
+and
+appropriate
+pedagogical/andragogical approach.
+21 existing InforMEA Courses upgraded to bring them in line
+with
+the
+new
+courses
+and
+the
+defined
+pedagogical/andragogical approach
+Setup a Learning Management System for CITES Monitoring
+the Illegal Killing of Elephants (MIKE) Programme as an
+independent portal.
+2 courses for the Biosafety Clearing House (BCH): One on
+general Knowledge Management in the context of the
+Clearing House, and the other on Blended Learning,
+developed.
+Worked with a team of researchers to identify and assess
+funding opportunities.
+Wrote clear and concise proposals that effectively
+communicated the organization’s need and goals.
+Built relationships with donors and cultivated their support
+for the organization’s work.
+Managing directors are responsible for developing and
+implementing the company’s strategic plan.
+Employ effective time management strategies while
+working on multiple course development projects
+simultaneously.
+
+E-LEARNING TRAINING AND
+SUPPORT FACILITATOR
+
+Jan 2012 - April 2013
+
+UNESCO, PAKISTAN
+Administrated the content and backend of Blackboard
+Learn campus-wide (3000+ students).
+Conducted Technical training and How-toes to the
+students and teachers.
+Introduced new features and integration campus-wide on a
+monthly basis.
+Developed associate’s level programs (45 courses in total)
+for students.
+Helped teachers to design and develop curriculums.
+
+23
+
+PROJECT PROPOSAL
+
+PROFESSIONAL EXPERIENCE
+
+E-LEARNING DEVELOPER
+
+Sep 2022 - Feb 2023
+
+YOUNG AFRICA (CONTRACT)
+Oversaw and prepared Learning Toolbox for Young Africa
+project to transform young lives
+Reveiwed YA existing eLearning platform and identify their
+strengths and limitations
+Developed Monitoring and Evaluation Framework for the
+eLearning Platform.
+Trained 200 TVET instructors on Instructional Design
+National tax policy interventions and enforced
+implementation of withholding tax regime
+Directly managed and administrated the LMS system of
+Young Africa
+Develop quality assurance guidelines for teachers and
+instructors
+
+ACHIEVEMENTS
+Conceptualized YA LMS Platform through Moodle Open
+Source
+Developed an Administrator LMS program for stakeholders
+and train 16 administrators
+Prepared and implemented quality assurance guidelines
+
+SENIOR INSTRUCTIONAL DESIGNER
+CITRIX
+
+July 2016 - Aug
+2017
+
+Collaborated with the product team (Citrix cloud) to
+understand the roadmap, features, and technical
+requirements for next sprint and developed training
+materials to educate customers and employees.
+Three years of experience creating and delivering effective
+CSM, CS, and Sales training programs
+Led the annual and multi-year learning plans to deliver
+desired capability and business results.
+Managed developers to enhance our current company
+owned learning management system (LMS) – ECC and
+support learning goals to accelerate employee’s
+performance.
+Created end-to-end processes to develop training
+(Instructor Led and eLearning Courses) for Instructional
+Designers and Curriculum Developers.
+Designed technical training on Coveo that saving the
+company around $ 3M a year in search time.
+Reviewing and Managing 15 curriculums (technical and nontechnical courses) every week.
+
+LEARNING AND DEVELOPMENT Aug 2017 - May 2021
+MANAGER
+SONANGOL, USA
+Applied designing thinking mindset to analyze the
+performance and training gaps.
+Implemented training development standards and
+governance by adhering to content development and
+maintenance processes.
+Implemented
+a
+Learning
+Management
+System
+(Cornerstone) company-wide with over 3000+ Off-theshelf courses and Pluralsight.
+Integrated Cornerstone with ADP – HRIS to get employee’s
+profile and core competencies via Organization Units (OU)
+Field Mapping.
+Measured and analyzing trainee performance; identifying
+program inconsistencies and deficiencies; reporting
+inconsistencies and flaws to senior leadership.
+Designed
+employee
+development
+programs
+(onboarding/offboarding) and implementing training
+platforms for a better learning experience.
+Managed complex training programs, performance support
+tools, and resources by analyzing learning needs, learning
+environments, knowledge gaps, and behavioral changes;
+supervising the development of blended learning options
+and ensuring alignment with technology and business
+support infrastructure.
+Provide continuous improvement feedback to management
+to improve productivity and quality.
+
+DIGITAL CONTENT CREATION
+
+April 2013 - May 2017
+
+BLENDTOLEARN, DUBAI
+Over 3000+ participants have accessed the new Learning
+Management System (eFront).
+Implemented the Learning Management System (LMS) with
+all the processes and documentation needed for the
+training – LMS (eFront).
+Created standard operating procedures (SOPs) for LMS
+with internal business functions
+Conducted in-house training on the Learning Management
+System (LMS)
+Trained and oversaw 5 credentialed trainers to set up
+building blocks, schedules and user enrollment in the LMS.
+24
+
+

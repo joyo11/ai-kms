@@ -1,0 +1,138 @@
+Sara Learning – Operational Plan
+
+Sara Learning’s operational plan include following priorities.
+
++-------+------------------------------------------+--------+--------+
+| Core  | Key Actions                              | Re     | Ti     |
+| Act   |                                          | sponsi | meline |
+| ivity |                                          | bility |        |
++=======+==========================================+========+========+
+| Ident | -   Review of tender portals on daily    | Fuzail | Daily  |
+| ifica |     basis and updating the potential     |        |        |
+| tion, |     tenders in the project pipeline      |        |        |
+| p     |                                          |        |        |
+| repar |                                          |        |        |
+| ation |                                          |        |        |
+| and   |                                          |        |        |
+| submi |                                          |        |        |
+| ssion |                                          |        |        |
+| of    |                                          |        |        |
+| ten   |                                          |        |        |
+| ders. |                                          |        |        |
++-------+------------------------------------------+--------+--------+
+|       | -   Review the requirements of the       | Abdul  | Daily  |
+|       |     tender and updating the situation    | Ghani/ |        |
+|       |     (apply, apply with partnership or    | Kamran |        |
+|       |     not to apply)                        | Kashif |        |
++-------+------------------------------------------+--------+--------+
+|       | -   Preparation of the proposal          | Abdul  | Weekly |
+|       |     development though brainstorming     | Ghani/ |        |
+|       |     meeting including technical input    | Kamran |        |
+|       |     followed by proposal writing, team   | Kashif |        |
+|       |     formation and budget development.    |        |        |
++-------+------------------------------------------+--------+--------+
+|       | -   Review the first draft, provide      | Abdul  | Weekly |
+|       |     feedback, update the draft and final | Ghani, |        |
+|       |     meeting.                             | Kamran |        |
+|       |                                          | Kashif |        |
+|       |                                          | and    |        |
+|       |                                          | Kelly  |        |
++-------+------------------------------------------+--------+--------+
+|       | -   Update the proposal and budget       | Kamran | Acc    |
+|       |     followed by submission.              | Kashif | ording |
+|       |                                          |        | to     |
+|       |                                          |        | subm   |
+|       |                                          |        | ission |
+|       |                                          |        | date   |
++-------+------------------------------------------+--------+--------+
+| Int   | Development of internal tender           | Kamran | 4 - 8  |
+| ernal | management processes focusing on given   | Kashif | Weeks  |
+| Proc  | points.                                  |        |        |
+| esses |                                          | Fuzail |        |
+| D     | Process update by Fuzail:                |        |        |
+| evelo |                                          |        |        |
+| pment | -   Access Development Sector Portals    |        |        |
+| for   |     (UNGM, GIZ, Enable, UNDP, IoM) and   |        |        |
+| the   |     Tenders Identification.              |        |        |
+| tend  |                                          |        |        |
+| ering | -   Proposal Development and Review      |        |        |
+| work  |                                          |        |        |
+|       | -   Budget Development                   |        |        |
+|       |                                          |        |        |
+|       | -   Team Formation                       |        |        |
+|       |                                          |        |        |
+|       | -   Tender Submission Process            |        |        |
+|       |                                          |        |        |
+|       | Process update by Kamran:                |        |        |
+|       |                                          |        |        |
+|       | -   Life Cycle Concept                   |        |        |
+|       |                                          |        |        |
+|       | -   Pricing Model                        |        |        |
+|       |                                          |        |        |
+|       | -   Base level methodology and execution |        |        |
+|       |     approach for the proposal            |        |        |
+|       |                                          |        |        |
+|       | -   Steering processes of Sara Learning  |        |        |
+|       |     for tenders' management              |        |        |
+|       |                                          |        |        |
+|       | -   Monitoring and evaluation            |        |        |
+|       |                                          |        |        |
+|       | -   Consultancy governance, team         |        |        |
+|       |     management and working with client   |        |        |
+|       |                                          |        |        |
+|       | -   Risk and mitigation management       |        |        |
+|       |                                          |        |        |
+|       | -   Communication and coordination with  |        |        |
+|       |     clients and stakeholders             |        |        |
++-------+------------------------------------------+--------+--------+
+| Se    | Alignment of services portfolio to start | Ka     | 4 – 12 |
+| rvice | business development on LinkedIn and     | mran’s | weeks  |
+| Port  | other platforms (Upwork and Fiverr), the | role   |        |
+| folio | core optics are given and Sara Learning  | will   |        |
+| D     | to explore integrating AI into all       | be     |        |
+| evelo | elements:                                | coordi |        |
+| pment |                                          | nating |        |
+| and   | -   Learning Management Systems          | here.  |        |
+| Pr    |                                          |        |        |
+| icing | -   E-learning Development               | Abdul  |        |
+|       |                                          | Ghani, |        |
+|       | -   Online courses of Sara Learning      | Ab     |        |
+|       |                                          | dullah |        |
+|       | -   Digital Knowledge Management Systems | and    |        |
+|       |                                          | Tiffny |        |
+|       | -   Instructional Design                 | to     |        |
+|       |                                          | lead   |        |
+|       | -   Curriculum Development               |        |        |
+|       |                                          |        |        |
+|       | -   Training Needs Assessment            |        |        |
+|       |                                          |        |        |
+|       | -   Micro-learning, scenario learning,   |        |        |
+|       |     Gamification, audio, video.          |        |        |
+|       |                                          |        |        |
+|       | -   Compliance training                  |        |        |
+|       |                                          |        |        |
+|       | -   Employee onboarding                  |        |        |
+|       |                                          |        |        |
+|       | -   Greening TVET and Digitisation       |        |        |
++-------+------------------------------------------+--------+--------+
+| O     | -   Develop a LinkedIn strategy to       | Alyan  | Daily  |
+| nline |     increase visibility, focusing on     |        |        |
+| Pla   |     services portfolio posts, sharing    |        |        |
+| tform |     case studies, and client success     |        |        |
+| I     |     stories.                             |        |        |
+| ntegr |                                          |        |        |
+| ation |                                          |        |        |
+| and   |                                          |        |        |
+| Bra   |                                          |        |        |
+| nding |                                          |        |        |
++-------+------------------------------------------+--------+--------+
+|       | -   Establish a regular posting and      | ?????  | Daily  |
+|       |     coordinating with potential clients  | (to    |        |
+|       |     via online platforms like Upwork and | d      |        |
+|       |     Fiverr.                              | iscuss |        |
+|       |                                          | team   |        |
+|       |                                          | name)  |        |
++-------+------------------------------------------+--------+--------+
+| Pr    | -   Update the Sara Learning Company     | Whole  | 4      |
+| ofile |     Profile                              | Team   | weeks  |
++-------+------------------------------------------+--------+--------+

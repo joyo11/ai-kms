@@ -1,0 +1,156 @@
+Introduction
+
+This document outlines the management process of exploring tenders for
+Sara Learning. It serves as a step-by-step guide to streamline proposal
+development, enhance team coordination, and ensure compliance with donor
+requirements. The process aims to create clarity, accountability, and
+operational efficiency across all stages of competitive bidding. By
+implementing this structure, Sara Learning can increase its success in
+securing projects and strengthen consulting portfolio.
+
+Process Flow
+
+Enhanced Workflow Summary
+
++-------------+-------------+------------+-------------+-------------+
+| Stage       | Responsible | Purpose    | Key Actions | Outcome /   |
+|             | Person(s)   |            |             | Deliverable |
++=============+=============+============+=============+=============+
+| Tender      | Business    | Portal     | Check key   | Up-to-date  |
+| Ide         | Development | Monitoring | donor       | tender      |
+| ntification | intern Mr.  | & Pipeline | portals     | tracker     |
+|             | Muhammad    | Entry      | (UNGM, GIZ, | with        |
+|             | Fuzail      |            | UNDP, IOM), | relevant    |
+|             |             |            | and update  | opp         |
+|             |             |            | in the      | ortunities. |
+|             |             |            | project     |             |
+|             |             |            | pipeline.   |             |
++-------------+-------------+------------+-------------+-------------+
+| Relevance   | Business    | Strategic  | Assess if   | Clear       |
+| Review      | Development | Fit Review | the         | 'Go/No-Go'  |
+|             | Manager Mr. |            | opportunity | decision    |
+|             | Kamran      |            | matches our | with        |
+|             | Kashif      |            | expertise,  | supporting  |
+|             |             |            | themes, and | notes.      |
+|             | &           |            | capacity.   |             |
+|             |             |            | Updating    |             |
+|             | Team Leader |            | notes in    |             |
+|             | Mr. Abdul   |            | the project |             |
+|             | Ghani       |            | pipeline    |             |
+|             | Rajput      |            | and discuss |             |
+|             |             |            | in the      |             |
+|             |             |            | weekly or   |             |
+|             |             |            | weekend     |             |
+|             |             |            | meetings.   |             |
++-------------+-------------+------------+-------------+-------------+
+| ToRs Review | Mr. Abdul   | Scope      | Discuss     | Breakdown   |
+|             | Ghani       | Definition | project     | of proposal |
+|             | Rajput      |            | objectives, | sections    |
+|             |             |            | assign      | with task   |
+|             | &           |            | proposal    | owners.     |
+|             |             |            | writing     |             |
+|             | Mr. Kamran  |            | tasks,      |             |
+|             | Kashif      |            | develop     |             |
+|             |             |            | budget,     |             |
+|             |             |            | gather team |             |
+|             |             |            | and         |             |
+|             |             |            | documents   |             |
+|             |             |            | and         |             |
+|             |             |            | identify    |             |
+|             |             |            | gaps.       |             |
++-------------+-------------+------------+-------------+-------------+
+| Proposal    | Mr. Kamran  | Proposal   | Write       | First       |
+| Drafting    | Kashif      | D          | proposal    | complete    |
+|             |             | evelopment | using       | draft of    |
+|             |             |            | template    | proposal    |
+|             |             |            | and ToR,    | submitted   |
+|             |             |            | ensuring    | for review. |
+|             |             |            | logic and   |             |
+|             |             |            | flow.       |             |
+|             |             |            | Prepare all |             |
+|             |             |            | the         |             |
+|             |             |            | required    |             |
+|             |             |            | documents.  |             |
++-------------+-------------+------------+-------------+-------------+
+| Internal    | Team X      | Quality &  | Review      | Marked-up   |
+| Review      |             | Compliance | content,    | draft with  |
+|             |             | Check      | clarity,    | suggestions |
+|             |             |            | structure,  | and         |
+|             |             |            | and donor   | comments.   |
+|             |             |            | alignment.  |             |
++-------------+-------------+------------+-------------+-------------+
+| Proposal    | Mr. Kamran  | Editor /   | Incorporate | Clean,      |
+| Revision    | Kashif      | Final      | feedback,   | submi       |
+|             |             | Drafter    | polish      | ssion-ready |
+|             |             |            | language,   | draft.      |
+|             |             |            | format, and |             |
+|             |             |            | finalize.   |             |
++-------------+-------------+------------+-------------+-------------+
+| Budget      | Finance     | Cost       | Draft cost  | Final       |
+| Development | Team        | Planning   | estimates,  | budget      |
+|             |             |            | align with  | sheet with  |
+|             |             |            | d           | cost        |
+|             |             |            | eliverables | just        |
+|             |             |            | and donor   | ifications. |
+|             |             |            | format.     |             |
++-------------+-------------+------------+-------------+-------------+
+| Team        | Abdul Ghani | Resource   | Select      | Confirmed   |
+| Formation   | Rajput      | Selection  | qualified   | internal    |
+|             |             |            | team,       | and         |
+|             |             |            | collect     | external    |
+|             |             |            | CVs,        | team with   |
+|             |             |            | letters of  | doc         |
+|             |             |            | intent, and | umentation. |
+|             |             |            | av          |             |
+|             |             |            | ailability. |             |
++-------------+-------------+------------+-------------+-------------+
+| Final       | Whole Team  | Validation | Check all   | Complete    |
+| Review      |             |            | documents:  | submission  |
+|             |             |            | proposal,   | package     |
+|             |             |            | annexes,    | ready for   |
+|             |             |            | budget,     | upload.     |
+|             |             |            | CVs.        |             |
++-------------+-------------+------------+-------------+-------------+
+| Submission  | Mr. Kamran  | Uploader / | Submit      | Confirmed   |
+|             | Kashif      | Submitter  | files via   | submission  |
+|             |             |            | portal      | with        |
+|             |             |            | before      | archive     |
+|             |             |            | deadline,   | proof.      |
+|             |             |            | save        |             |
+|             |             |            | receipt.    |             |
++-------------+-------------+------------+-------------+-------------+
+| Tender      | Team Lead   | Process    | Monitor and | Steering    |
+| Steering    |             | Governance | guide       | oversight   |
+|             |             |            | tendering   | log.        |
+|             |             |            | stages and  |             |
+|             |             |            | respon      |             |
+|             |             |            | sibilities. |             |
++-------------+-------------+------------+-------------+-------------+
+| Monitoring  | QA Officer  | Quality    | Set metrics | Evaluation  |
+| &           |             | Control    | for         | plan and    |
+| Evaluation  |             |            | tracking    | tools.      |
+|             |             |            | d           |             |
+|             |             |            | eliverables |             |
+|             |             |            | and         |             |
+|             |             |            | results.    |             |
++-------------+-------------+------------+-------------+-------------+
+| Consultancy | Management  | Leadership | Manage      | Governance  |
+| Governance  | Team        | & Liaison  | internal    | framework.  |
+|             |             |            | team roles  |             |
+|             |             |            | and client  |             |
+|             |             |            | col         |             |
+|             |             |            | laboration. |             |
++-------------+-------------+------------+-------------+-------------+
+| Risk        | Risk        | Risk       | Identify    | Risk matrix |
+| Management  | Officer     | Assessment | risks and   | and         |
+|             |             |            | draft       | response    |
+|             |             |            | mitigation  | plan.       |
+|             |             |            | strategies. |             |
++-------------+-------------+------------+-------------+-------------+
+| Client      | Co          | S          | Coordinate  | Co          |
+| Co          | mmunication | takeholder | all formal  | mmunication |
+| mmunication | Lead        | Engagement | and         | plan.       |
+|             |             |            | informal    |             |
+|             |             |            | com         |             |
+|             |             |            | munication. |             |
++-------------+-------------+------------+-------------+-------------+
